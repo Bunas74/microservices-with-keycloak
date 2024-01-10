@@ -1,0 +1,12 @@
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\controller\UserController.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\BackendResourcesApplication.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\service\UserService.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\configuration\SecurityConfiguration.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\service\UserServiceImpl.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\configuration\KeycloakClientConfiguration.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\exception\BackendResourcesException.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\mapper\UserMapper.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\api\response\UserResponse.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\configuration\OpenApiConfiguration.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\controller\RestExceptionHandler.java
+D:\Java\MyProject\microservices-with-keycloak\backend-resources\src\main\java\com\itm\space\backendresources\api\request\UserRequest.java

@@ -1,0 +1,13 @@
+com\itm\space\backendresources\service\UserService.class
+com\itm\space\backendresources\exception\BackendResourcesException.class
+com\itm\space\backendresources\api\request\UserRequest.class
+com\itm\space\backendresources\api\response\UserResponse.class
+com\itm\space\backendresources\configuration\OpenApiConfiguration.class
+com\itm\space\backendresources\mapper\UserMapper.class
+com\itm\space\backendresources\mapper\UserMapperImpl.class
+com\itm\space\backendresources\configuration\KeycloakClientConfiguration.class
+com\itm\space\backendresources\controller\RestExceptionHandler.class
+com\itm\space\backendresources\BackendResourcesApplication.class
+com\itm\space\backendresources\controller\UserController.class
+com\itm\space\backendresources\configuration\SecurityConfiguration.class
+com\itm\space\backendresources\service\UserServiceImpl.class
